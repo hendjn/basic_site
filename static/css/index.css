@@ -1,0 +1,60 @@
+.auto {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+body{
+    color: rgb(31, 31, 31)!important;
+    min-height: 100vh !important;
+}
+.main-div {
+    padding-top: 2%;
+    margin-top: auto;
+    margin-bottom: auto;
+    min-height: 100vh;
+    
+}
+
+.title-link {
+    text-decoration: none !important;
+    margin: 10px;
+    font-weight: 600;
+    color: rgb(49, 49, 49)!important;
+}
+
+.title-link:hover {
+    color: rgb(90, 90, 90)!important;
+}
+
+.link {
+    text-decoration: none !important;
+    margin: 10px;
+    font-weight: 600;
+    color: rgb(156, 135, 15)!important;
+}
+
+.link:hover {
+    color: rgb(235, 205, 35)!important;
+}
+
+.name-link {
+    text-decoration: none;
+    color: rgb(133, 133, 133)!important;
+}
+
+.name-link:hover {
+    color: rgb(165, 165, 165)!important;
+}
+
+.avatar {
+    width: 100px;
+    border-radius: 50%;
+}
+
+dd {
+    color: rgb(49, 49, 49);
+    padding-left: 20px;
+}
+
+dt {
+    color: rgb(156, 135, 15);
+}
